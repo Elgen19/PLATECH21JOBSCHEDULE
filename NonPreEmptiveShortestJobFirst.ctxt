@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=NonPreEmptiveShortestJobFirst
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=jobBurstTime\ numberOfProcesses
+comment2.target=void\ createNonPreEmptiveShortestJobFirst(int[],\ int)
+numComments=3
