@@ -1,3 +1,10 @@
+/*
+This program demonstrates how PRIORITY SCHEDULING works.
+
+Author: Francis Andrie Mercado of BS IT -2B
+
+*/
+
 import java.util.*;
 public class PriorityScheduling
 {
