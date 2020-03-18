@@ -1,3 +1,11 @@
+/*
+This program demonstrates how NON PREEMPTIVE SHORTEST JOB FIRST works.
+Maximum processes allowed are up to 10.
+
+Author: Jeza Marie Geonzon of BS IT- 2A
+*/
+
+
 import java.util.*;
 public class NonPreEmptiveShortestJobFirst
 {
