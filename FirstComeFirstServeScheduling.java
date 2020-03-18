@@ -1,3 +1,11 @@
+/*
+This program demonstrates the First Come First Serve
+Arrival time for this JOB SCHEDULING is at 0ms.
+
+Author: Shania Jane Lachica of BS-IT 2B
+
+*/
+
 import java.util.*;
 public class FirstComeFirstServeScheduling
 {
