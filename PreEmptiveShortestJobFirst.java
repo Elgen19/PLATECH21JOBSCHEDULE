@@ -1,3 +1,9 @@
+/*
+This program demonstrates how PRE EMPTIVE SHORTEST JOB FIRST works.
+
+Author: Christian Jake Managase of BS IT-2B
+*/
+
 import java.util.*;
 public class PreEmptiveShortestJobFirst {
     public static void main (String args[])
