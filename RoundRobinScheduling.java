@@ -1,6 +1,10 @@
+/*
+This program demonstrates how ROUND ROBIN SCHEDULING works.
+
+Author: Elgen Prestosa of BS IT - 2B
+*/
+
 import java.util.*;
-import java.util.concurrent.*;
-import java.text.*;
 public class RoundRobinScheduling
 {
     public static void main (String [] args)
